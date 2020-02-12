@@ -1,21 +1,7 @@
-# eleme
-
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# 饿了么项目
+# 通用的git使用流程
+1.  修改代码
+2.  git add . 将代码保存到本地暂存区
+3.  git commit -m "备注" 将暂存区里的代码都提交到仓库中
+4.  git pull food master 拉取最新内容
+5.  git push food master 推送本地代码

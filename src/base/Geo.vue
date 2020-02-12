@@ -24,4 +24,7 @@ export default {
   }
 }
 </script>
-<style lang="stylus" scoped></style>
+<style lang="stylus" scoped>
+.geo
+  text-shdow 0 0 red
+</style>

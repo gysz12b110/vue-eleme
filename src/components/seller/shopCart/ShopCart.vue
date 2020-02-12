@@ -85,10 +85,6 @@ export default {
     }
   },
   methods: {
-    // 进入：beforeEnter（进入之前），enter（进入动画刚开始），afterEnter（动画开始），enterCancelled（进入被中断）；
-    // 退出：beforeLeave（退出之前），leave（退出动画刚开始），afterLeave（退出动画结束），leaveCancelled（退出被中断）；
-    beforeEnter (el) {
-    },
     enter (el) {
       el.style.height = 0
     },
